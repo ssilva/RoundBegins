@@ -16,6 +16,8 @@
 		A46DEEB82A4CE83100D3ECBE /* RoundBeginsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46DEEB72A4CE83100D3ECBE /* RoundBeginsTests.swift */; };
 		A46DEEC22A4CE83100D3ECBE /* RoundBeginsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46DEEC12A4CE83100D3ECBE /* RoundBeginsUITests.swift */; };
 		A46DEEC42A4CE83100D3ECBE /* RoundBeginsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46DEEC32A4CE83100D3ECBE /* RoundBeginsUITestsLaunchTests.swift */; };
+		A46DEF0F2A4DFD7C00D3ECBE /* Step.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46DEF0E2A4DFD7B00D3ECBE /* Step.swift */; };
+		A46DEF112A4E826100D3ECBE /* StepType.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46DEF102A4E826100D3ECBE /* StepType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		A46DEEBD2A4CE83100D3ECBE /* RoundBeginsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoundBeginsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46DEEC12A4CE83100D3ECBE /* RoundBeginsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundBeginsUITests.swift; sourceTree = "<group>"; };
 		A46DEEC32A4CE83100D3ECBE /* RoundBeginsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundBeginsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A46DEF0E2A4DFD7B00D3ECBE /* Step.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Step.swift; sourceTree = "<group>"; };
+		A46DEF102A4E826100D3ECBE /* StepType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				A46DEEA92A4CE83100D3ECBE /* Assets.xcassets */,
 				A46DEEAB2A4CE83100D3ECBE /* LaunchScreen.storyboard */,
 				A46DEEAE2A4CE83100D3ECBE /* Info.plist */,
+				A46DEF0E2A4DFD7B00D3ECBE /* Step.swift */,
+				A46DEF102A4E826100D3ECBE /* StepType.swift */,
 			);
 			path = RoundBegins;
 			sourceTree = "<group>";
@@ -259,6 +265,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A46DEEA52A4CE82C00D3ECBE /* ViewController.swift in Sources */,
+				A46DEF0F2A4DFD7C00D3ECBE /* Step.swift in Sources */,
+				A46DEF112A4E826100D3ECBE /* StepType.swift in Sources */,
 				A46DEEA12A4CE82C00D3ECBE /* AppDelegate.swift in Sources */,
 				A46DEEA32A4CE82C00D3ECBE /* SceneDelegate.swift in Sources */,
 			);
